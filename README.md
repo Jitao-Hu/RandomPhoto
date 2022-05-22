@@ -1,8 +1,8 @@
 # RandomPhoto
 
-This project creates an app for mobile that show random poto on the screen.
+This project creates an app for mobile that show random photo on the screen.
 
-Everytime the button is clicked,a random phto will be shown while the bakcground color will also change.
+Everytime the button is clicked,a random photo will be shown while the bakcground color will also change.
 
 _______________________________________________
 
